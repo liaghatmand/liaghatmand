@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @liaghatmand
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m zahra @liaghatmand
+- 👀 I’m a .Net programmer
+- 🌱 I’m currently Improving my .Net C# programming skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +989360091821 on whatsapp

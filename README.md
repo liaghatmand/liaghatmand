@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! 👋 I'm Zahra Liaghatmand, a passionate and experienced DotNet Developer based in Tehran. I thrive on building robust and scalable applications using cutting-edge technologies and following best practices in software development.
+Hello! 👋 I'm Zahra Liaghatmand, a passionate and Mid-Level DotNet Developer based in Tehran. I thrive on building robust and scalable applications using cutting-edge technologies and following best practices in software development.
 
 ## 🔧 Technologies & Tools
 
